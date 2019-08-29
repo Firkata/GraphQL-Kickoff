@@ -26,6 +26,12 @@ const addBookMutation = gql`
     }
   }
 `
+const deleteBookMutation = gql`
+  mutation($id: ID){
+    deleteBook(id: $id){
+    }
+  }
+`
 
 const getBookQuery = gql`
   query($id: ID){
