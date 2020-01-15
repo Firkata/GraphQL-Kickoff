@@ -1,5 +1,5 @@
 # GraphQL-Kickoff
-Reference to GraphQL docs: https://graphql.org/learn/
+Reference to GraphQL docs: https://graphql.org/learn/ and to React docs: https://reactjs.org/
 
 node_modules not included, run these :
 
