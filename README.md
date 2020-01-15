@@ -1,6 +1,6 @@
 # GraphQL-Kickoff
 Project for learning GraphQL with React
-
+reference to graphql docs: https://graphql.org/learn/
 node_modules not included, run these :
 
 npm init (for package.json file)
